@@ -1,0 +1,17 @@
+{
+  "schema": 1,
+  "version": "1.0.6-rc18",
+  "versionCode": 24,
+  "packageName": "com.arkhen.player.preview",
+  "minSdk": 26,
+  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc18/ARKHEN-1.0.6-rc18-preview.apk",
+  "sha256": "65bc32cf29857c863e979f3a413cbd27883cf93a0d189ac1d91bc7b687733190",
+  "size": 14274718,
+  "obrigatoria": false,
+  "novidades": [
+    "Atualizações do APK pelo próprio aplicativo, com progresso e confirmação do Android.",
+    "Correção da perda coletiva de programação e da validade do guia de TV.",
+    "Recuperação limitada de sessão e fonte de TV com aviso cancelável.",
+    "Ícone de áudio e legendas diferenciado dos ajustes de reprodução."
+  ]
+}
