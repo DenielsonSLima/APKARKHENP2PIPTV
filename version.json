@@ -1,17 +1,16 @@
 {
   "schema": 1,
-  "version": "1.0.6-rc18",
-  "versionCode": 24,
+  "version": "1.0.6-rc19",
+  "versionCode": 25,
   "packageName": "com.arkhen.player.preview",
   "minSdk": 26,
-  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc18/ARKHEN-1.0.6-rc18-preview.apk",
-  "sha256": "65bc32cf29857c863e979f3a413cbd27883cf93a0d189ac1d91bc7b687733190",
-  "size": 14274718,
+  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc19/ARKHEN-1.0.6-rc19-preview.apk",
+  "sha256": "f41069bbfd02371c0fb7c2ef19ad9402943d40cfec34bf985c37eda7accf4ca0",
+  "size": 15957042,
   "obrigatoria": false,
   "novidades": [
-    "Atualizações do APK pelo próprio aplicativo, com progresso e confirmação do Android.",
-    "Correção da perda coletiva de programação e da validade do guia de TV.",
-    "Recuperação limitada de sessão e fonte de TV com aviso cancelável.",
-    "Ícone de áudio e legendas diferenciado dos ajustes de reprodução."
+    "Compatibilidade de instalação com Android TV ARM de 32 bits (armeabi-v7a), mantendo ARM64 no mesmo APK.",
+    "Ícone adaptativo e banner da Android TV com a logo prateada oficial do sistema ARKHEN.",
+    "Pacote e assinatura preservados para atualização sobre as prévias anteriores."
   ]
 }
