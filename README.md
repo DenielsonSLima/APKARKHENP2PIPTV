@@ -24,3 +24,9 @@ Este repositório contém somente APKs e metadados públicos de distribuição. 
 [Baixar APK atual](https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/download/ARKHEN-P2P-IPTV.apk)
 
 Use esse destino no encurtador AFTVnews. O endereço permanece igual nas próximas atualizações de P2P/IPTV.
+
+## Link encurtado existente
+
+[Destino preservado do Downloader](https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc18/ARKHEN-1.0.6-rc18-preview.apk)
+
+O nome histórico rc18 permanece na URL para conservar os encurtadores existentes; o arquivo entrega a versão atual. O APK RC18 original está arquivado separadamente no mesmo release.
