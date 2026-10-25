@@ -15,6 +15,12 @@ Não é preciso desinstalar para atualizar. A atualização confere arquivo, pac
 
 ## Compatibilidade
 
-Android 8.0/API26 ou superior, ARM64. As versões RC são prévias; a compatibilidade de reprodução varia conforme aparelho e formato.
+Android 8.0/API26 ou superior, ARM32 (armeabi-v7a) e ARM64 (arm64-v8a) no mesmo APK. As versões RC são prévias; a compatibilidade de reprodução varia conforme aparelho e formato.
 
 Este repositório contém somente APKs e metadados públicos de distribuição. Não contém contas, fontes privadas de mídia ou chaves de assinatura.
+
+## Link fixo para Downloader
+
+[Baixar APK atual](https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/download/ARKHEN-P2P-IPTV.apk)
+
+Use esse destino no encurtador AFTVnews. O endereço permanece igual nas próximas atualizações de P2P/IPTV.
