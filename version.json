@@ -1,15 +1,18 @@
 {
   "schema": 1,
-  "version": "1.0.6-rc22",
-  "versionCode": 28,
+  "version": "1.0.6-rc23",
+  "versionCode": 29,
   "packageName": "com.arkhen.player.preview",
   "minSdk": 26,
-  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc22/ARKHEN-1.0.6-rc22-preview.apk",
-  "sha256": "12cc26580ba668cea97994c7bee20e94df51a729d5a036a425b7de15f9ae54fe",
-  "size": 15967477,
+  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc23/ARKHEN-1.0.6-rc23-preview.apk",
+  "sha256": "c4c43aa1c067ac657d7bbfaa42d2b2ee26c683a18f41b351fb509a66b57a569f",
+  "size": 15988728,
   "obrigatoria": false,
   "novidades": [
-    "Atualização da conexão com sua biblioteca.",
-    "Catálogos reaproveitados para reduzir o consumo de dados."
+    "Entrada com email e senha da conta ARKHEN.",
+    "Minha conta com assinatura e liberação administrativa manual.",
+    "Acesso WPLAY vinculado e exibido mediante confirmação de senha.",
+    "Sessão única com autorização renovável de reprodução na TV.",
+    "Correções de navegação do controle e reutilização de catálogo."
   ]
 }
