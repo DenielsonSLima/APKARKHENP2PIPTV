@@ -1,16 +1,15 @@
 {
   "schema": 1,
-  "version": "1.0.6-rc21",
-  "versionCode": 27,
+  "version": "1.0.6-rc22",
+  "versionCode": 28,
   "packageName": "com.arkhen.player.preview",
   "minSdk": 26,
-  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc21/ARKHEN-1.0.6-rc21-preview.apk",
-  "sha256": "a51b80c836a631bdbfa3f69980a8c8446b2204772d841f2381ffbfffd85ea49c",
-  "size": 15967445,
+  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc22/ARKHEN-1.0.6-rc22-preview.apk",
+  "sha256": "12cc26580ba668cea97994c7bee20e94df51a729d5a036a425b7de15f9ae54fe",
+  "size": 15967477,
   "obrigatoria": false,
   "novidades": [
-    "Seleção na TV com destaque discreto na capa e nas abas.",
-    "Ordenação por nome, data e nota reunida em Configurações > Ordenação.",
-    "Mais espaço para os catálogos, preservando preferências de Filmes, Séries e Minha lista."
+    "Atualização da conexão com sua biblioteca.",
+    "Catálogos reaproveitados para reduzir o consumo de dados."
   ]
 }
