@@ -1,12 +1,12 @@
 {
   "schema": 1,
-  "version": "1.0.6-rc23",
-  "versionCode": 29,
+  "version": "1.0.6-rc24",
+  "versionCode": 30,
   "packageName": "com.arkhen.player.preview",
   "minSdk": 26,
-  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc23/ARKHEN-1.0.6-rc23-preview.apk",
-  "sha256": "c4c43aa1c067ac657d7bbfaa42d2b2ee26c683a18f41b351fb509a66b57a569f",
-  "size": 15988728,
+  "url": "https://github.com/DenielsonSLima/APKARKHENP2PIPTV/releases/download/v1.0.6-rc24/ARKHEN-1.0.6-rc24-preview.apk",
+  "sha256": "9d553cb7482cc49b2b553f69f24c26581bd006d5860db5f14b856a89535f21ca",
+  "size": 15989064,
   "obrigatoria": false,
   "novidades": [
     "Entrada com email e senha da conta ARKHEN.",
